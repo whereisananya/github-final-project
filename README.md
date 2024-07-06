@@ -1,2 +1,8 @@
-# github-final-project
-GitHub repositor for edX course on Git and GitHub Basics. This repository is created to complete Module 3 of the course. 
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
